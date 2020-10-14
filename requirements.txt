@@ -2,6 +2,6 @@ Flask
 Flask_Script
 cosmic_ray
 nose
-locustio
+locust
 safety
 pylama
